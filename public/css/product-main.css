@@ -226,3 +226,10 @@ body {
     padding: 10px;
     margin-top: 100px;
 }
+
+.btn-1 {
+    background: -webkit-linear-gradient(90deg, rgb(22, 3, 75), rgb(44, 13, 184), rgb(43, 209, 250));
+    border-style: solid;
+    border-color: rgb(43, 53, 109);
+}
+
