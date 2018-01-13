@@ -1,0 +1,23 @@
+.nav-section {
+    background-color: red;
+    padding: 5px;
+}
+
+.navbar-brand {
+    width: 100%;
+    margin-top: -30px;
+}
+
+.container {
+    
+    
+}
+
+.navbar-inverse {
+    height: 130px;
+    background-color: #092746;
+}
+
+#navbar-gap {
+    margin-top:-10;
+}
